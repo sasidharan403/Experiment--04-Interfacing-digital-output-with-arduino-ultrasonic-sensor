@@ -76,15 +76,6 @@ void loop(){
   Serial.println(" cm");
 }
 ```
-### Distance vs measurement table 
-
-
-
-
-
-
-
-
 ### RESULTS
 Thus, we have interfaced an FSR(force sensitive resistor) and scale the output voltage obtained to pressure applied is verified.
 
