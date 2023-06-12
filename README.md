@@ -35,11 +35,7 @@ speed of sound in the air at 20ºC (68ºF) = 343m/s
 
 ### FIGURE 01 CIRCUIT OF INTERFACING ULTRASONIC SENSOR 
 
-
-![image](1.png)
-
-
-
+![5](https://github.com/sasidharan403/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/94154712/e2997440-4869-419b-8dde-6f3da0a93edd)
 ### PROCEDURE:
 1.	Connect the circuit as per the circuit diagram 
 2.	Connect the board to your computer via the USB cable.
@@ -75,7 +71,12 @@ void loop(){
   Serial.println(" cm");
 }
 ```
-### RESULTS
+### OUTPUT:
+![out 1](https://github.com/sasidharan403/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/94154712/10c9bfcd-d5ee-4764-ba49-1bad839c0c47)
+
+![out 2](https://github.com/sasidharan403/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/94154712/044060b5-8e4a-4ee5-a5f5-600504497f77)
+
+### RESULTS:
 Thus the distance value is measured in "CM"
 using ultrasonic sensor.
  
